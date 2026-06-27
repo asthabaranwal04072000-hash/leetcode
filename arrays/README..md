@@ -14,3 +14,9 @@ For every current number:
 Time Complexity: O(n)
 
 Space Complexity: O(n)
+
+# Contains Duplicate
+
+## Idea
+
+- I remembered it today
